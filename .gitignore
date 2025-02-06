@@ -172,3 +172,7 @@ cython_debug/
 
 data_here/*
 !data_here/.gitignore
+plot_images/*
+!plot_images/.gitignore
+saved_gifs/*
+!saved_gifs/.gitignore
