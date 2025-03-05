@@ -176,3 +176,5 @@ plot_images/*
 !plot_images/.gitignore
 saved_gifs/*
 !saved_gifs/.gitignore
+heat_images/*
+!heat_images/.gitignore
