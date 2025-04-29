@@ -178,3 +178,7 @@ saved_gifs/*
 !saved_gifs/.gitignore
 heat_images/*
 !heat_images/.gitignore
+complete_aug_df.json
+complete_df.json
+complete_minority_aug_df.json
+large_complete_df.json
