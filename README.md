@@ -2,6 +2,7 @@
 Predicting Gaze and Memory patterns of L1 and L2 speakers.
 </p></h1>
 
+**Github link:** https://github.com/Yellowtintin/Clementine-Eye-tracking-thesis.git
 
 # Usage
 
